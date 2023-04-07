@@ -1,0 +1,3 @@
+D:/project under development/C++ proj/free coding/work6/cmake-build-debug/CMakeFiles/work6.dir
+D:/project under development/C++ proj/free coding/work6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project under development/C++ proj/free coding/work6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
